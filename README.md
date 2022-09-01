@@ -2,7 +2,7 @@
 
 Bag-of-words model is created and classification of images using K-Nearest Neighbour (KNN) and Support Vector Machine (SVM) is performed.
 
-Following taks have been performed here:
+Following tasks have been performed here:
 * Dictionary Creation – feature quantization
 * Image representation using Bag of Words representation
 * Image Classification using a Nearest Neighbour (NN) classifier
